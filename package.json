@@ -1,0 +1,15 @@
+{
+  "name": "node-test-proj",
+  "version": "1.0.0",
+  "description": "This is a test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Osas Azamegbe",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
